@@ -1,3 +1,3 @@
-module github.com/dongri/phonenumber
+module github.com/doitintl/phonenumber
 
 go 1.16
